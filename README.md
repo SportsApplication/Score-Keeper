@@ -11,7 +11,7 @@ ScoreKeeper帮助你记录和管理体育比赛数据，详细记录每一位运
 目前支持足球比赛、篮球比赛和网球比赛。
 
 ### [screenshots][预览图]
-![]()
+![](https://github.com/SportsApplication/Score-Keeper/blob/master/preview.png)
 
 ### [Contact us][联系方式]
 邮箱：fu4s06@163.com
